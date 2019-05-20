@@ -4,7 +4,7 @@ Styeguide setup with Fractal
 
 [ ] Fractal
 
-[ ] .editorconfig
+[X] .editorconfig
 
 [ ] .browserslist
 
