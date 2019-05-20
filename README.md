@@ -3,6 +3,7 @@ Styeguide setup with Fractal
 
 
 [ ] Fractal
+
 [ ] .edirotconfig
 [ ] .browserslist
 [ ] Gulp
