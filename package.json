@@ -1,0 +1,19 @@
+{
+  "name": "styleguide",
+  "version": "1.0.0",
+  "description": "Styeguide setup with Fractal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pekkos/styleguide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pekkos/styleguide/issues"
+  },
+  "homepage": "https://github.com/pekkos/styleguide#readme"
+}
